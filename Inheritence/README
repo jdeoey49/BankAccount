@@ -1,1 +1,12 @@
+Class BankAccount (Base Class) 
+BankAccounts’s public services include 
+• a constructor 
+• get and set functions 
+• member function deposit 
+• overloaded stream insertion operator
 
+Class SavingsAccount (Derived Class)
+SavingsAccounts’s public services include 
+• a constructor 
+• member functions receiveInterestPayment and withdrawMoney
+• overloaded stream insertion operator
